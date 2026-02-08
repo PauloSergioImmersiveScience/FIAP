@@ -8,4 +8,5 @@ $ # Clone o repositório
 $ git clone https://github.com/PauloSergioImmersiveScience/FIAP/
 
 $ # instale as dependencias python
+
 $ pip install -r requirements.txt --user
