@@ -2,4 +2,8 @@
 Neste repositório você irá encontrar os conteúdos ministrados em sala de aula assim como os exemplos e laborórios.
 # Roteiros práticos
 
+$ # Clone o repositório
+$ git clone https://github.com/PauloSergioImmersiveScience/FIAP/
 
+$ # instale as dependencias python
+$ pip install -r requirements.txt --user
