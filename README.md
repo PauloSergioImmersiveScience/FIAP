@@ -4,6 +4,7 @@ Neste repositório você irá encontrar os conteúdos ministrados em sala de aul
 
 # Como clonar o repositório usuários Linux
 $ # Clone o repositório
+
 $ git clone https://github.com/PauloSergioImmersiveScience/FIAP/
 
 $ # instale as dependencias python
