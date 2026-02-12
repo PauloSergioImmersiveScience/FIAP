@@ -1,3 +1,6 @@
+# Código para Ler, Alterar e exibir cada pixel de uma imagem simples no OpenCV 4.13
+# Data: 12/02/26
+# Autor: Prof. Dr. Paulo Sérgio Rodrigues (UFABC/FIAP)
 
 # importa a biblioteca principal do OpenCV
 import cv2
@@ -44,4 +47,5 @@ cv2.waitKey(0)
 
 # apaga as janelas criadas e encerra o programa
 cv2.destroyAllWindows()
+
 
