@@ -1,4 +1,7 @@
-
+# Código para Ler e exibir uma imagem simples no OpenCV 4.13
+# Data: 12/02/26
+# Autor: Prof. Dr. Paulo Sérgio Rodrigues (UFABC/FIAP)
+ 
 # importa a biblioteca principal do OpenCV
 import cv2
 # define o caminho e a imagem onde o OpenCv vai encontr´a-la
@@ -13,4 +16,5 @@ cv2.imshow("Imagem", img)
 cv2.waitKey(0)
 # encerra todas as janelas definidas at´e aqui
 cv2.destroyAllWindows()
+
 
